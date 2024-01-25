@@ -6,7 +6,7 @@ public class bbf {
 
         System.out.println("1. git init - Inicializa um repositório Git local");
         System.out.println("2. git clone <URL do repositório> - Clona um repositório remoto");
-        System.out.println("3. git add <arquivo> - Adiciona alterações ao índice");
+        System.out.println("3. git add <arquivo> - Adiciona alterações ao índice"); //git . add tudo
         System.out.println("4. git commit -m 'mensagem' - Realiza um commit com as alterações no índice");
         System.out.println("5. git status - Exibe o status das alterações");
         System.out.println("6. git pull - Atualiza o repositório local com as alterações do remoto");
